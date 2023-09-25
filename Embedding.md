@@ -1,0 +1,1 @@
+vectorizing data. especially natural languages 
