@@ -8,48 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "817eeb6a6f55d6c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "langchain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b446d4f14e3c9733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Document transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "693d6d67a22aeb92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Document transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "61ba730b5b101214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chroma.md",
+                "file": "Document Transformers/chroma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21ca0aac6ab45db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/Crawler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57c19fd63335433a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/QnA from pdf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ad1ae5cc59e9693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/Crawler.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chroma.md",
+                "file": "Todo/Crawler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chroma.md",
+                "file": "Todo/Crawler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chroma.md"
+                "file": "Todo/Crawler.md"
               }
             }
           },
@@ -195,12 +195,18 @@
   },
   "active": "e015834afd3a3337",
   "lastOpenFiles": [
+    "Todo/Main Page.md",
+    "Todo/Crawler.md",
+    "Todo/QnA from pdf.md",
+    "Untitled",
+    "Document Transformers/langchain.md",
+    "Todo",
+    "Document Transformers",
     "assets",
     "assets/Pasted image 20230925155000.png",
-    "Document transformers.md",
-    "chroma.md",
-    "RecursiveCharacterTextSplitter.md",
-    "Embedding.md",
-    "langchain.md"
+    "Document Transformers/Document transformers.md",
+    "Document Transformers/chroma.md",
+    "Document Transformers/RecursiveCharacterTextSplitter.md",
+    "Document Transformers/Embedding.md"
   ]
 }
