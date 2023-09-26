@@ -11,12 +11,8 @@
             "id": "1ad1ae5cc59e9693",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/Main Page.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/Main Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/Main Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo/Main Page.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,18 +150,45 @@
   },
   "active": "1ad1ae5cc59e9693",
   "lastOpenFiles": [
+    "Theory Study/Paper/Attention_is_All_You_Need.md",
+    "Theory Study/Transformers.md",
+    "Theory Study/Paper",
+    "Theory Study",
+    "Bidirectional Encoder Representations from Transformers(BERT).md",
+    "Attention.md",
+    "Maum AI/Document Transformers/Vector Index.md",
+    "Maum AI/Document Transformers/RecursiveCharacterTextSplitter.md",
+    "Maum AI/Document Transformers/Similarity Metric.md",
+    "Maum AI/Document Transformers/langchain.md",
+    "Maum AI/Document Transformers/Embedding.md",
+    "Maum AI/Document Transformers/Document transformers.md",
+    "Maum AI/Document Transformers/chroma.md",
+    "Maum AI/Document Transformers/Approximate Nearest Neighbor(ANN).md",
+    "Maum AI/Todo/QnA from pdf.md",
+    "Maum AI/Todo/Main Page.md",
+    "Maum AI/Todo/Crawler.md",
+    "Maum AI/Crawler/playwright.md",
+    "Maum AI/assets/transformer_structure_2.png",
+    "Maum AI/assets/transformer_structure_1.png",
+    "Maum AI/assets/Pasted image 20230925155000.png",
+    "Maum AI/assets/attentions_in_transformer.png",
+    "Maum AI/Document Transformers",
+    "Maum AI/Todo",
+    "Maum AI/Crawler",
+    "Maum AI/assets",
+    "Maum AI",
     "Todo/QnA from pdf.md",
-    "Todo/Crawler.md",
     "Todo/Main Page.md",
-    "Document Transformers/chroma.md",
-    "Untitled",
-    "Document Transformers/langchain.md",
+    "Todo/Crawler.md",
     "Todo",
-    "Document Transformers",
-    "assets",
     "assets/Pasted image 20230925155000.png",
-    "Document Transformers/Document transformers.md",
+    "assets",
     "Document Transformers/RecursiveCharacterTextSplitter.md",
-    "Document Transformers/Embedding.md"
+    "Document Transformers/langchain.md",
+    "Document Transformers/Embedding.md",
+    "Document Transformers/Document transformers.md",
+    "Document Transformers/chroma.md",
+    "Document Transformers",
+    "Retrieval Augmented Generation (RAG).md"
   ]
 }
