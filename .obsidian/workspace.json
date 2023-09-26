@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61ba730b5b101214",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Document Transformers/chroma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21ca0aac6ab45db8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/Crawler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57c19fd63335433a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/QnA from pdf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1ad1ae5cc59e9693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/Crawler.md",
+                "file": "Todo/Main Page.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/Crawler.md",
+                "file": "Todo/Main Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/Crawler.md",
+                "file": "Todo/Main Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/Crawler.md"
+                "file": "Todo/Main Page.md"
               }
             }
           },
@@ -193,11 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e015834afd3a3337",
+  "active": "1ad1ae5cc59e9693",
   "lastOpenFiles": [
-    "Todo/Main Page.md",
-    "Todo/Crawler.md",
     "Todo/QnA from pdf.md",
+    "Todo/Crawler.md",
+    "Todo/Main Page.md",
+    "Document Transformers/chroma.md",
     "Untitled",
     "Document Transformers/langchain.md",
     "Todo",
@@ -205,7 +169,6 @@
     "assets",
     "assets/Pasted image 20230925155000.png",
     "Document Transformers/Document transformers.md",
-    "Document Transformers/chroma.md",
     "Document Transformers/RecursiveCharacterTextSplitter.md",
     "Document Transformers/Embedding.md"
   ]

@@ -4,6 +4,5 @@
 
 ## Today
 ```tasks
-not done
-due before today
+due today
 ```
