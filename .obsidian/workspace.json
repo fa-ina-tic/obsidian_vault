@@ -11,11 +11,40 @@
             "id": "1ad1ae5cc59e9693",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Maum AI/NIPA/0927 NIPA 인수인계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3379bdfd99bba07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory Study/SBERT(Sentence-BERT).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b88d51db30cd36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory Study/SBERT(Sentence-BERT).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theory Study/SBERT(Sentence-BERT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Theory Study/SBERT(Sentence-BERT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Theory Study/SBERT(Sentence-BERT).md"
+              }
             }
           },
           {
@@ -148,14 +181,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ad1ae5cc59e9693",
+  "active": "5b88d51db30cd36d",
   "lastOpenFiles": [
-    "Theory Study/Paper/Attention_is_All_You_Need.md",
+    "Attention.md",
+    "Theory Study/SBERT(Sentence-BERT).md",
     "Theory Study/Transformers.md",
+    "Theory Study/Paper/Sentence-BERT Sentence Embeddings using Siamese BERT-Networks.md",
+    "Bidirectional Encoder Representations from Transformers(BERT).md",
+    "Maum AI/NIPA/0927 NIPA 인수인계.md",
+    "Maum AI/Todo/TODO.md",
+    "Maum AI/NIPA",
+    "Maum AI/Todo/NIPA.md",
+    "Maum AI/Todo/로슈.md",
+    "Theory Study/Paper/Attention_is_All_You_Need.md",
     "Theory Study/Paper",
     "Theory Study",
-    "Bidirectional Encoder Representations from Transformers(BERT).md",
-    "Attention.md",
     "Maum AI/Document Transformers/Vector Index.md",
     "Maum AI/Document Transformers/RecursiveCharacterTextSplitter.md",
     "Maum AI/Document Transformers/Similarity Metric.md",
@@ -165,7 +205,6 @@
     "Maum AI/Document Transformers/chroma.md",
     "Maum AI/Document Transformers/Approximate Nearest Neighbor(ANN).md",
     "Maum AI/Todo/QnA from pdf.md",
-    "Maum AI/Todo/Main Page.md",
     "Maum AI/Todo/Crawler.md",
     "Maum AI/Crawler/playwright.md",
     "Maum AI/assets/transformer_structure_2.png",
@@ -184,11 +223,6 @@
     "assets/Pasted image 20230925155000.png",
     "assets",
     "Document Transformers/RecursiveCharacterTextSplitter.md",
-    "Document Transformers/langchain.md",
-    "Document Transformers/Embedding.md",
-    "Document Transformers/Document transformers.md",
-    "Document Transformers/chroma.md",
-    "Document Transformers",
-    "Retrieval Augmented Generation (RAG).md"
+    "Document Transformers/langchain.md"
   ]
 }
