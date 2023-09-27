@@ -1,3 +1,0 @@
-- [ ] code review
-	- [ ] naver_blog.py ghost coding & code review📅 2023-09-26 
-- [ ] velog crawler
