@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3792664ae07fe4a0",
+        "id": "977cf20db60ed5dc",
         "type": "tabs",
         "children": [
           {
-            "id": "1ad1ae5cc59e9693",
+            "id": "9a061140901439a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maum AI/NIPA/0927 NIPA 인수인계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3379bdfd99bba07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory Study/SBERT(Sentence-BERT).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b88d51db30cd36d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory Study/SBERT(Sentence-BERT).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory Study/SBERT(Sentence-BERT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory Study/SBERT(Sentence-BERT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Theory Study/SBERT(Sentence-BERT).md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,48 +148,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b88d51db30cd36d",
+  "active": "9a061140901439a5",
   "lastOpenFiles": [
-    "Attention.md",
-    "Theory Study/SBERT(Sentence-BERT).md",
-    "Theory Study/Transformers.md",
-    "Theory Study/Paper/Sentence-BERT Sentence Embeddings using Siamese BERT-Networks.md",
-    "Bidirectional Encoder Representations from Transformers(BERT).md",
+    "연습장.md",
     "Maum AI/NIPA/0927 NIPA 인수인계.md",
-    "Maum AI/Todo/TODO.md",
-    "Maum AI/NIPA",
-    "Maum AI/Todo/NIPA.md",
-    "Maum AI/Todo/로슈.md",
-    "Theory Study/Paper/Attention_is_All_You_Need.md",
-    "Theory Study/Paper",
-    "Theory Study",
+    "Maum AI/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/231005 회의록.md",
+    "Maum AI/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/K culture 계정 정보.md",
+    "Maum AI/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/(100-124) 품질지표기준서_k-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터_v1.0.hwp",
+    "Maum AI/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/1권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
+    "Maum AI/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/2권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 정제 가이드라인(목차+작성방법)_v1.0.hwp",
+    "Maum AI/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/3권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
+    "Maum AI/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/3권_첨부)[100] 일본어 말뭉치 데이터 구축 현황표_v1.0.xlsx",
+    "Maum AI/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets",
+    "Maum AI/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터",
+    "Maum AI/Crawler/playwright.md",
+    "Maum AI/Document Transformers/Similarity Metric.md",
     "Maum AI/Document Transformers/Vector Index.md",
     "Maum AI/Document Transformers/RecursiveCharacterTextSplitter.md",
-    "Maum AI/Document Transformers/Similarity Metric.md",
     "Maum AI/Document Transformers/langchain.md",
     "Maum AI/Document Transformers/Embedding.md",
     "Maum AI/Document Transformers/Document transformers.md",
-    "Maum AI/Document Transformers/chroma.md",
+    "Theory Study/Seq2Seq.md",
+    "Bidirectional Encoder Representations from Transformers(BERT).md",
+    "Attention.md",
+    "Theory Study/Paper/Sentence-BERT Sentence Embeddings using Siamese BERT-Networks.md",
+    "Theory Study/Paper/Attention_is_All_You_Need.md",
+    "Theory Study/Transformers.md",
     "Maum AI/Document Transformers/Approximate Nearest Neighbor(ANN).md",
+    "Theory Study/SBERT(Sentence-BERT).md",
+    "Maum AI/Document Transformers/chroma.md",
+    "Maum AI/Todo/로슈.md",
+    "Maum AI/Todo/TODO.md",
+    "Maum AI/Todo/NIPA.md",
+    "Maum AI/NIPA",
+    "Maum AI/Todo/Main Page.md",
+    "Theory Study/Paper",
+    "Theory Study",
     "Maum AI/Todo/QnA from pdf.md",
     "Maum AI/Todo/Crawler.md",
-    "Maum AI/Crawler/playwright.md",
     "Maum AI/assets/transformer_structure_2.png",
     "Maum AI/assets/transformer_structure_1.png",
     "Maum AI/assets/Pasted image 20230925155000.png",
     "Maum AI/assets/attentions_in_transformer.png",
-    "Maum AI/Document Transformers",
-    "Maum AI/Todo",
-    "Maum AI/Crawler",
-    "Maum AI/assets",
-    "Maum AI",
-    "Todo/QnA from pdf.md",
-    "Todo/Main Page.md",
-    "Todo/Crawler.md",
-    "Todo",
-    "assets/Pasted image 20230925155000.png",
-    "assets",
-    "Document Transformers/RecursiveCharacterTextSplitter.md",
-    "Document Transformers/langchain.md"
+    "assets/Pasted image 20230925155000.png"
   ]
 }
