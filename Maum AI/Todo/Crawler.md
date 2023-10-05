@@ -1,3 +1,0 @@
-- [ ] code review
-	- [ ] naver_blog.py ghost coding & code review
-- [ ] velog crawler
