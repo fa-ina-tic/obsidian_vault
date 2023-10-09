@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory Study/Attention.md",
+                "file": "Maum AI/Project/GPU Cluster Monitoring & Management/개요.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99922c874f1761d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maum AI/Project/GPU Cluster Monitoring & Management/Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory Study/Attention.md",
+                "file": "Maum AI/Project/GPU Cluster Monitoring & Management/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory Study/Attention.md",
+                "file": "Maum AI/Project/GPU Cluster Monitoring & Management/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory Study/Attention.md"
+                "file": "Maum AI/Project/GPU Cluster Monitoring & Management/Note.md"
               }
             }
           },
@@ -169,13 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0062f109cd651dfa",
+  "active": "99922c874f1761d8",
   "lastOpenFiles": [
-    "Maum AI/Project/NIPA/0927 NIPA 인수인계.md",
+    "Maum AI/Project/GPU Cluster Monitoring & Management/개요.md",
+    "Maum AI/Project/GPU Cluster Monitoring & Management/Note.md",
     "Theory Study/Attention.md",
+    "Maum AI/Project/NIPA/0927 NIPA 인수인계.md",
     "Theory Study/Seq2Seq.md",
     "Pasted image 20231005160437.png",
-    "Maum AI/Project/GPU Cluster Monitoring & Management/개요.md",
     "Maum AI/Todo/TODO.md",
     "Maum AI/Todo/QnA from pdf.md",
     "Maum AI/Todo/NIPA.md",
