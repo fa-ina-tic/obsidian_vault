@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory Study/Transformers.md",
+                "file": "Theory Study/NLP/Transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,26 +25,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maum AI/Project/GPU Cluster Monitoring & Management/개요.md",
+                "file": "Maum AI/연습장.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99922c874f1761d8",
+            "id": "80a9fa7dce69db1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maum AI/Project/GPU Cluster Monitoring & Management/Note.md",
+                "file": "Personal Study/langchain.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "be79849bd241a718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory Study/NLP/Transformers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd26959cf3674eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Study/WandB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25411eaa2683c0a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maum AI/Project/GPU Cluster Monitoring & Management/Note.md",
+                "file": "Personal Study/WandB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maum AI/Project/GPU Cluster Monitoring & Management/Note.md",
+                "file": "Personal Study/WandB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maum AI/Project/GPU Cluster Monitoring & Management/Note.md"
+                "file": "Personal Study/WandB.md"
               }
             }
           },
@@ -181,14 +215,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99922c874f1761d8",
+  "active": "25411eaa2683c0a2",
   "lastOpenFiles": [
+    "Personal Study/langchain.md",
+    "Theory Study/IMAGE/Super Resolution.md",
+    "Theory Study/NLP/Transformers.md",
+    "Theory Study/IMAGE",
+    "Personal Study/WandB.md",
+    "Theory Study/NLP",
+    "Personal Study",
+    "Maum AI/연습장.md",
+    "Personal Study/Prompt Engineering",
+    "Crawler/playwright.md",
+    "assets/Pasted image 20231010095411.png",
+    "assets/Pasted image 20231005160437.png",
     "Maum AI/Project/GPU Cluster Monitoring & Management/개요.md",
     "Maum AI/Project/GPU Cluster Monitoring & Management/Note.md",
-    "Theory Study/Attention.md",
+    "Theory Study/NLP/Attention.md",
     "Maum AI/Project/NIPA/0927 NIPA 인수인계.md",
-    "Theory Study/Seq2Seq.md",
-    "Pasted image 20231005160437.png",
+    "Theory Study/NLP/Seq2Seq.md",
     "Maum AI/Todo/TODO.md",
     "Maum AI/Todo/QnA from pdf.md",
     "Maum AI/Todo/NIPA.md",
@@ -196,31 +241,21 @@
     "Maum AI/Todo/로슈.md",
     "Maum AI/Project",
     "Maum AI/Project/GPU Cluster Monitoring & Management",
-    "Theory Study/auto-regressive model.md",
+    "Theory Study/NLP/auto-regressive model.md",
     "assets/Pasted image 20231005152243.png",
-    "Theory Study/Transformers.md",
     "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/K culture 계정 정보.md",
     "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/231005 회의록.md",
-    "Maum AI/Document Transformers/Vector Index.md",
-    "Theory Study/Bidirectional Encoder Representations from Transformers(BERT).md",
-    "Theory Study/Prompted Engineering.md",
-    "연습장.md",
+    "Document Transformers/Vector Index.md",
+    "Theory Study/NLP/Bidirectional Encoder Representations from Transformers(BERT).md",
+    "Theory Study/NLP/Prompted Engineering.md",
     "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/(100-124) 품질지표기준서_k-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터_v1.0.hwp",
     "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/1권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
     "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/2권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 정제 가이드라인(목차+작성방법)_v1.0.hwp",
     "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/3권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
-    "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/3권_첨부)[100] 일본어 말뭉치 데이터 구축 현황표_v1.0.xlsx",
-    "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets",
-    "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터",
-    "Maum AI/Crawler/playwright.md",
-    "Maum AI/Document Transformers/Similarity Metric.md",
-    "Maum AI/Document Transformers/RecursiveCharacterTextSplitter.md",
-    "Maum AI/Document Transformers/langchain.md",
-    "Maum AI/Document Transformers/Embedding.md",
-    "Maum AI/Document Transformers/Document transformers.md",
-    "Theory Study/Paper/Sentence-BERT Sentence Embeddings using Siamese BERT-Networks.md",
-    "Theory Study/Paper/Attention_is_All_You_Need.md",
-    "Maum AI/Project/NIPA",
+    "Document Transformers/Similarity Metric.md",
+    "Document Transformers/RecursiveCharacterTextSplitter.md",
+    "Document Transformers/langchain.md",
+    "Document Transformers/Embedding.md",
     "assets/transformer_structure_2.png",
     "assets/transformer_structure_1.png",
     "assets/Pasted image 20230925155000.png",
