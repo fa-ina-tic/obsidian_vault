@@ -8,103 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a061140901439a5",
+            "id": "2d1fb19631c55474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory Study/NLP/Transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0062f109cd651dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maum_AI/연습장.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80a9fa7dce69db1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Study/langchain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be79849bd241a718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory Study/NLP/Transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd26959cf3674eb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Study/WandB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25411eaa2683c0a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Study/WandB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "596a1e3387113023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maum_AI/Project/GPU Cluster Monitoring & Management/Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62fd770861ed3b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maum_AI/Project/아모레 퍼시픽/외부 정보.md",
+                "file": "Personal Study/vectorDB/Vector Search Engines.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maum_AI/Project/아모레 퍼시픽/외부 정보.md",
+                "file": "Personal Study/vectorDB/Vector Search Engines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maum_AI/Project/아모레 퍼시픽/외부 정보.md",
+                "file": "Personal Study/vectorDB/Vector Search Engines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maum_AI/Project/아모레 퍼시픽/외부 정보.md"
+                "file": "Personal Study/vectorDB/Vector Search Engines.md"
               }
             }
           },
@@ -241,51 +156,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e015834afd3a3337",
+  "active": "2d1fb19631c55474",
   "lastOpenFiles": [
-    "Maum_AI/Project/GPU Cluster Monitoring & Management/Note.md",
-    "Maum_AI/Project/아모레 퍼시픽/외부 정보.md",
-    "Maum_AI/Project/아모레 퍼시픽",
-    "Maum_AI/Project/GPU Cluster Monitoring & Management/개요.md",
-    "Maum_AI/Project/GPU Cluster Monitoring & Management/Todo List.md",
-    "Maum_AI/Project/NIPA/0927 NIPA 인수인계.md",
-    "Personal Study/WandB.md",
+    "Personal Study/vectorDB/Locality Sensitive Ranking(LSH).md",
+    "Maum_AI/MLops meeting.md",
+    "Maum_AI/LakeFS.md",
+    "Untitled.md",
+    "Personal Study/vectorDB/Vector Search Engines.md",
+    "Personal Study/elasticsearch.md",
     "Personal Study/langchain.md",
-    "Theory Study/IMAGE/Super Resolution.md",
+    "Personal Study/WandB.md",
     "Theory Study/NLP/Transformers.md",
+    "Theory Study/NLP/SBERT(Sentence-BERT).md",
+    "Theory Study/NLP/Prompted Engineering.md",
+    "Theory Study/NLP/Attention.md",
+    "Theory Study/NLP/Paper/Sentence-BERT Sentence Embeddings using Siamese BERT-Networks.md",
+    "Theory Study/NLP/Paper/Attention_is_All_You_Need.md",
+    "Theory Study/NLP/Bidirectional Encoder Representations from Transformers(BERT).md",
+    "Theory Study/NLP/auto-regressive model.md",
+    "Personal Study/vectorDB",
+    "assets/Pasted image 20231123161557.png",
+    "assets/Pasted image 20231020092841.png",
+    "Document Transformers/Embedding.md",
+    "Document Transformers/Document transformers.md",
+    "Document Transformers/Vector Index.md",
+    "Document Transformers/Similarity Metric.md",
+    "Document Transformers/RecursiveCharacterTextSplitter.md",
+    "Document Transformers/chroma.md",
+    "Maum_AI/Project/GPU Cluster Monitoring & Management/HDFS research.md",
+    "Maum_AI/Project/아모레 퍼시픽/multi dataloader.md",
+    "Maum_AI/Project/GPU Cluster Monitoring & Management/Pasted image 20231116123035.png",
+    "Maum_AI/Project/GPU Cluster Monitoring & Management/Note.md",
+    "Maum_AI/Project/아모레 퍼시픽/intent classification using LLM.md",
+    "Maum_AI/Project/아모레 퍼시픽",
     "Theory Study/IMAGE",
     "Theory Study/NLP",
     "Personal Study",
-    "Maum_AI/연습장.md",
     "Personal Study/Prompt Engineering",
-    "Crawler/playwright.md",
     "assets/Pasted image 20231010095411.png",
     "assets/Pasted image 20231005160437.png",
-    "Theory Study/NLP/Attention.md",
-    "Theory Study/NLP/Seq2Seq.md",
-    "Maum AI/Todo/TODO.md",
-    "Maum AI/Todo/QnA from pdf.md",
-    "Maum AI/Todo/NIPA.md",
-    "Maum AI/Todo/Crawler.md",
-    "Maum AI/Todo/로슈.md",
     "Maum_AI/Project",
     "Maum_AI/Project/GPU Cluster Monitoring & Management",
-    "Theory Study/NLP/auto-regressive model.md",
     "assets/Pasted image 20231005152243.png",
-    "Maum_AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/K culture 계정 정보.md",
-    "Maum_AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/231005 회의록.md",
-    "Document Transformers/Vector Index.md",
-    "Theory Study/NLP/Bidirectional Encoder Representations from Transformers(BERT).md",
-    "Theory Study/NLP/Prompted Engineering.md",
     "Maum_AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/(100-124) 품질지표기준서_k-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터_v1.0.hwp",
     "Maum_AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/1권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
-    "Maum_AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/2권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 정제 가이드라인(목차+작성방법)_v1.0.hwp",
-    "Document Transformers/Similarity Metric.md",
-    "Document Transformers/RecursiveCharacterTextSplitter.md",
     "assets/transformer_structure_2.png",
     "assets/transformer_structure_1.png",
     "assets/Pasted image 20230925155000.png",
-    "assets/attentions_in_transformer.png",
-    "assets/Pasted image 20230925155000.png"
+    "assets/attentions_in_transformer.png"
   ]
 }
