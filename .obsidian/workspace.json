@@ -11,64 +11,11 @@
             "id": "2d1fb19631c55474",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Study/vectorDB/Vector Search Engines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a541ba5a649d58d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Study/vectorDB/Vector Search Engines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b5dc635a8d4a63d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "elasticsearch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9656726fad650a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lucene.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "711189779bde5eec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hierarchical Navigable Small World(HNSW).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "2de099ced9f8a19c",
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "elasticsearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "elasticsearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "elasticsearch.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,53 +148,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b5dc635a8d4a63d",
+  "active": "e015834afd3a3337",
   "lastOpenFiles": [
-    "assets/Pasted image 20231124133851.png",
-    "Personal Study/vectorDB/Vector Search Engines.md",
     "elasticsearch.md",
-    "Lucene.md",
-    "Hierarchical Navigable Small World(HNSW).md",
-    "Approximate Nearest Neighbors Oh Yeah(ANNOY).md",
+    "assets/Pasted image 20231124133851.png",
     "assets/Pasted image 20231124111538.png",
-    "NSW.md",
-    "Personal Study/vectorDB/Locality Sensitive Ranking(LSH).md",
-    "Hashing.md",
-    "Personal Study/langchain.md",
-    "Personal Study/WandB.md",
-    "Personal Study/elasticsearch.md",
-    "아모레 교육.md",
-    "Maum_AI/MLops meeting.md",
-    "Maum_AI/LakeFS.md",
-    "Untitled.md",
+    "assets/Pasted image 20231123161557.png",
+    "assets/Pasted image 20231020092841.png",
+    "assets/Pasted image 20231010095411.png",
+    "assets/Pasted image 20231005160437.png",
+    "Theory Study/NLP/Paper/Sentence-BERT Sentence Embeddings using Siamese BERT-Networks.md",
+    "Theory Study/NLP/Paper/Attention_is_All_You_Need.md",
+    "Theory Study/NLP/Seq2Seq.md",
+    "Theory Study/NLP/auto-regressive model.md",
     "Theory Study/NLP/Transformers.md",
     "Theory Study/NLP/SBERT(Sentence-BERT).md",
     "Theory Study/NLP/Prompted Engineering.md",
-    "Theory Study/NLP/Attention.md",
-    "Theory Study/NLP/Paper/Sentence-BERT Sentence Embeddings using Siamese BERT-Networks.md",
-    "Theory Study/NLP/Paper/Attention_is_All_You_Need.md",
+    "Theory Study/NLP/Paper",
     "Theory Study/NLP/Bidirectional Encoder Representations from Transformers(BERT).md",
-    "Theory Study/NLP/auto-regressive model.md",
+    "Theory Study/NLP/Attention.md",
+    "Theory Study/NLP",
+    "Theory Study/IMAGE/Super Resolution.md",
+    "Theory Study/IMAGE",
+    "Personal Study/vectorDB/Vector Search Engines.md",
+    "Personal Study/vectorDB/Locality Sensitive Ranking(LSH).md",
     "Personal Study/vectorDB",
-    "assets/Pasted image 20231123161557.png",
-    "assets/Pasted image 20231020092841.png",
+    "NSW.md",
+    "Lucene.md",
+    "Hierarchical Navigable Small World(HNSW).md",
+    "Hashing.md",
+    "Document Transformers/langchain.md",
+    "Document Transformers/chroma.md",
+    "Document Transformers/Vector Index.md",
+    "Document Transformers/Similarity Metric.md",
+    "Document Transformers/RecursiveCharacterTextSplitter.md",
     "Document Transformers/Embedding.md",
     "Document Transformers/Document transformers.md",
+    "Document Transformers/Approximate Nearest Neighbor(ANN).md",
+    "Document Transformers",
+    "Crawler/playwright.md",
+    "Crawler",
+    "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/1권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
+    "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/3권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
+    "Pasted image 20231005160437.png",
+    "Theory Study/Paper",
+    "Theory Study",
     "Maum_AI/Project/GPU Cluster Monitoring & Management/Pasted image 20231116123035.png",
-    "Maum_AI/Project/아모레 퍼시픽",
-    "Theory Study/IMAGE",
-    "Theory Study/NLP",
-    "Personal Study",
-    "Personal Study/Prompt Engineering",
-    "assets/Pasted image 20231010095411.png",
-    "assets/Pasted image 20231005160437.png",
-    "Maum_AI/Project",
-    "Maum_AI/Project/GPU Cluster Monitoring & Management",
     "assets/Pasted image 20231005152243.png",
-    "Maum_AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/(100-124) 품질지표기준서_k-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터_v1.0.hwp",
-    "Maum_AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/1권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
-    "assets/transformer_structure_2.png",
-    "assets/transformer_structure_1.png",
-    "assets/Pasted image 20230925155000.png"
+    "assets/transformer_structure_2.png"
   ]
 }
