@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a541ba5a649d58d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Study/vectorDB/Vector Search Engines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b5dc635a8d4a63d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "elasticsearch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9656726fad650a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lucene.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "711189779bde5eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hierarchical Navigable Small World(HNSW).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2de099ced9f8a19c",
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Study/vectorDB/Vector Search Engines.md",
+                "file": "elasticsearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Study/vectorDB/Vector Search Engines.md",
+                "file": "elasticsearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Study/vectorDB/Vector Search Engines.md"
+                "file": "elasticsearch.md"
               }
             }
           },
@@ -156,16 +205,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d1fb19631c55474",
+  "active": "1b5dc635a8d4a63d",
   "lastOpenFiles": [
+    "assets/Pasted image 20231124133851.png",
+    "Personal Study/vectorDB/Vector Search Engines.md",
+    "elasticsearch.md",
+    "Lucene.md",
+    "Hierarchical Navigable Small World(HNSW).md",
+    "Approximate Nearest Neighbors Oh Yeah(ANNOY).md",
+    "assets/Pasted image 20231124111538.png",
+    "NSW.md",
     "Personal Study/vectorDB/Locality Sensitive Ranking(LSH).md",
+    "Hashing.md",
+    "Personal Study/langchain.md",
+    "Personal Study/WandB.md",
+    "Personal Study/elasticsearch.md",
+    "아모레 교육.md",
     "Maum_AI/MLops meeting.md",
     "Maum_AI/LakeFS.md",
     "Untitled.md",
-    "Personal Study/vectorDB/Vector Search Engines.md",
-    "Personal Study/elasticsearch.md",
-    "Personal Study/langchain.md",
-    "Personal Study/WandB.md",
     "Theory Study/NLP/Transformers.md",
     "Theory Study/NLP/SBERT(Sentence-BERT).md",
     "Theory Study/NLP/Prompted Engineering.md",
@@ -179,15 +237,7 @@
     "assets/Pasted image 20231020092841.png",
     "Document Transformers/Embedding.md",
     "Document Transformers/Document transformers.md",
-    "Document Transformers/Vector Index.md",
-    "Document Transformers/Similarity Metric.md",
-    "Document Transformers/RecursiveCharacterTextSplitter.md",
-    "Document Transformers/chroma.md",
-    "Maum_AI/Project/GPU Cluster Monitoring & Management/HDFS research.md",
-    "Maum_AI/Project/아모레 퍼시픽/multi dataloader.md",
     "Maum_AI/Project/GPU Cluster Monitoring & Management/Pasted image 20231116123035.png",
-    "Maum_AI/Project/GPU Cluster Monitoring & Management/Note.md",
-    "Maum_AI/Project/아모레 퍼시픽/intent classification using LLM.md",
     "Maum_AI/Project/아모레 퍼시픽",
     "Theory Study/IMAGE",
     "Theory Study/NLP",
@@ -202,7 +252,6 @@
     "Maum_AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/1권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
     "assets/transformer_structure_2.png",
     "assets/transformer_structure_1.png",
-    "assets/Pasted image 20230925155000.png",
-    "assets/attentions_in_transformer.png"
+    "assets/Pasted image 20230925155000.png"
   ]
 }
