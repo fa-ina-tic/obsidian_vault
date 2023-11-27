@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d1fb19631c55474",
+            "id": "3228451ff64a728f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NSW.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NSW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NSW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NSW.md"
+              }
             }
           },
           {
@@ -148,9 +156,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e015834afd3a3337",
+  "active": "3228451ff64a728f",
   "lastOpenFiles": [
+    "Hierarchical Navigable Small World(HNSW).md",
+    "Personal Study/vectorDB/Vector Search Engines NotePad.md",
+    "Approximate Nearest Neighbors Oh Yeah(ANNOY).md",
+    "ANN.md",
+    "NSW.md",
+    "Skip lists.md",
+    "Theory Study/Manifold Hypothesis.md",
+    "Six Handshake Rules.md",
     "elasticsearch.md",
+    "Hashing.md",
     "assets/Pasted image 20231124133851.png",
     "assets/Pasted image 20231124111538.png",
     "assets/Pasted image 20231123161557.png",
@@ -170,23 +187,14 @@
     "Theory Study/NLP",
     "Theory Study/IMAGE/Super Resolution.md",
     "Theory Study/IMAGE",
-    "Personal Study/vectorDB/Vector Search Engines.md",
     "Personal Study/vectorDB/Locality Sensitive Ranking(LSH).md",
     "Personal Study/vectorDB",
-    "NSW.md",
     "Lucene.md",
-    "Hierarchical Navigable Small World(HNSW).md",
-    "Hashing.md",
     "Document Transformers/langchain.md",
     "Document Transformers/chroma.md",
     "Document Transformers/Vector Index.md",
     "Document Transformers/Similarity Metric.md",
-    "Document Transformers/RecursiveCharacterTextSplitter.md",
-    "Document Transformers/Embedding.md",
-    "Document Transformers/Document transformers.md",
-    "Document Transformers/Approximate Nearest Neighbor(ANN).md",
     "Document Transformers",
-    "Crawler/playwright.md",
     "Crawler",
     "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/1권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
     "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/3권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",

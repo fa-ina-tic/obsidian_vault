@@ -1,3 +1,9 @@
+construct such a graph where a path between any pair of vertices could be traversed in a small number of steps 
+
 벡터를 그래프의 node로 표현하고 인접한 벡터를 edge로 연결하는 방식
 Layer를 여러개 만들어 계층적으로 탐색을 진행하여 search 속도를 향상시키고, Layer 0에 모든 노드가 존재하여 최상위 Layer로 갈수록 개수가 적음
 
+based theory
+based structure
+- [[Skip lists]]
+- [[NSW]]
