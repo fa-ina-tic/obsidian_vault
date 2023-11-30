@@ -11,4 +11,17 @@ low-level vertices에서는 연결이 적기 때문에 빠르게 가장 가까�
 - Entry point 랜덤 지정
 - entry point 의 근접 벡터 중에서, query vector에 가장 근접한 벡터로 이동.
 - 현재 소속된 노드보다 쿼리 벡터에 가까운 노드를 찾지 못하면 search 멈춤
-- 
+
+## Prob
+early stopping
+![[Pasted image 20231128111227.png]]
+-> 여러 Entrypoint를 사용하는 것으로 개선 가능 -> 시간 복잡도는 k배 증가(k=사용 entrypoint 개수)
+
+## Construction
+![[Pasted image 20231128111621.png]]
+shuffle dataset points and inserting them one by one to current graph
+new node linked by edges to the $M$ nearest vertices
+
+long-range edges will likely be created at the beginning phase of the graph construction. They play an important role in graph navigation
+
+having long range connection makes query searching faster --> main concept of [[Hierarchical Navigable Small World(HNSW)]]

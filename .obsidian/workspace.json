@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "977cf20db60ed5dc",
+        "id": "16c97ac3ec7d2c07",
         "type": "tabs",
         "children": [
           {
-            "id": "3228451ff64a728f",
+            "id": "5b2a6b4013a19b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSW.md",
+                "file": "elasticsearch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6008ef567db3d08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wandb structure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2de099ced9f8a19c",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSW.md",
+                "file": "Wandb structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSW.md",
+                "file": "Wandb structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSW.md"
+                "file": "Wandb structure.md"
               }
             }
           },
@@ -156,24 +169,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3228451ff64a728f",
+  "active": "6008ef567db3d08a",
   "lastOpenFiles": [
+    "elasticsearch.md",
+    "Wandb structure.md",
+    "assets/Pasted image 20231128162812.png",
+    "Similarity Search.md",
+    "Inverted file index and product quantization.md",
     "Hierarchical Navigable Small World(HNSW).md",
+    "assets/Pasted image 20231129102635.png",
+    "Optimal Transport.md",
+    "Untitled",
+    "NSW.md",
+    "assets/Pasted image 20231128085951.png",
+    "assets/Pasted image 20231128111621.png",
+    "assets/Pasted image 20231128111227.png",
     "Personal Study/vectorDB/Vector Search Engines NotePad.md",
+    "Personal Study/vectorDB/Locality Sensitive Ranking(LSH).md",
+    "Skip lists.md",
+    "Six Handshake Rules.md",
+    "Lucene.md",
+    "Hashing.md",
     "Approximate Nearest Neighbors Oh Yeah(ANNOY).md",
     "ANN.md",
-    "NSW.md",
-    "Skip lists.md",
     "Theory Study/Manifold Hypothesis.md",
-    "Six Handshake Rules.md",
-    "elasticsearch.md",
-    "Hashing.md",
     "assets/Pasted image 20231124133851.png",
     "assets/Pasted image 20231124111538.png",
     "assets/Pasted image 20231123161557.png",
     "assets/Pasted image 20231020092841.png",
     "assets/Pasted image 20231010095411.png",
-    "assets/Pasted image 20231005160437.png",
     "Theory Study/NLP/Paper/Sentence-BERT Sentence Embeddings using Siamese BERT-Networks.md",
     "Theory Study/NLP/Paper/Attention_is_All_You_Need.md",
     "Theory Study/NLP/Seq2Seq.md",
@@ -187,22 +211,11 @@
     "Theory Study/NLP",
     "Theory Study/IMAGE/Super Resolution.md",
     "Theory Study/IMAGE",
-    "Personal Study/vectorDB/Locality Sensitive Ranking(LSH).md",
     "Personal Study/vectorDB",
-    "Lucene.md",
-    "Document Transformers/langchain.md",
-    "Document Transformers/chroma.md",
-    "Document Transformers/Vector Index.md",
-    "Document Transformers/Similarity Metric.md",
     "Document Transformers",
     "Crawler",
     "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/1권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
     "Maum AI/Project/K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터/assets/3권_[100]K-culture 관광 콘텐츠 특화 일본어 말뭉치 데이터 획득수집 가이드라인(목차+작성방법)_v1.0.hwp",
-    "Pasted image 20231005160437.png",
-    "Theory Study/Paper",
-    "Theory Study",
-    "Maum_AI/Project/GPU Cluster Monitoring & Management/Pasted image 20231116123035.png",
-    "assets/Pasted image 20231005152243.png",
-    "assets/transformer_structure_2.png"
+    "Theory Study/Paper"
   ]
 }

@@ -1,4 +1,5 @@
-distributed service(web server) based on [[Lucene]]
+distributed document store based on [[Lucene]]
+
 - provides:
 	- REST API
 	- distributed computing and scale out(sharding)
@@ -8,6 +9,7 @@ distributed service(web server) based on [[Lucene]]
 ![[Pasted image 20231124133851.png]]
 $$Elastic Search index \supset shard \supset lucene index \supset segment \supset document$$
 ### Shard
+Elasticsearch가 도입한 개념. index 안의 많은 document를 여러 곳에 분산시켜 서버의 수평적 확장(=scale out) 가능
 관리자
 1. ./index
 	1. [[Lucene]]이 관리
@@ -35,3 +37,10 @@ $$Elastic Search index \supset shard \supset lucene index \supset segment \supse
 | \_0.cfe | 0번 세그먼트의 모든 엔트리 테이블 |
 | segments_N        | 모든 세그먼트 참조를 보관하는 메타파일. 색인을 열 때 가장 먼저 읽는다.N=커밋횟수
 
+위의 표 이외에도 많은 Index 파일 존재하며, 아래와 같이 유기적으로 연결되어 있음
+![[Pasted image 20231129102635.png]]
+
+### Document
+input data
+key=term인 inverted index 구조로 segment 내부에 존재
+indexed document contents stored in segment with a form of binary file
