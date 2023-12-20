@@ -78,3 +78,4 @@ s3.head_object(Bucket='example-repo', Key='main/example-file.parquet')
 
 ## issue
 branch protection lakectl로 안됨 -> gui상에서는 가능
+
