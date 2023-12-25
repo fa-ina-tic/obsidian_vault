@@ -1,19 +1,35 @@
 {
   "main": {
-    "id": "869d061954931d6c",
+    "id": "b239729d3dadca87",
     "type": "split",
     "children": [
       {
-        "id": "9f1b6ad35ff4ccc3",
+        "id": "3ca43d263722cff5",
         "type": "tabs",
         "children": [
           {
-            "id": "63c1edfd2c7ce3b1",
+            "id": "ce53eef070d5f229",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Personal Study/MLE/paper/Orca A Distributed Serving System for Transformer-based Generative Models.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "899d831b174ac766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d07720f274f309b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maum_AI/model training workflow.md",
+                "file": "Personal Study/MLE/note.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ab00d563a1033b65",
+    "id": "28a1ac2d3d81bd6d",
     "type": "split",
     "children": [
       {
-        "id": "30229b95192c04e2",
+        "id": "d7b915e12d90e5bb",
         "type": "tabs",
         "children": [
           {
-            "id": "e015834afd3a3337",
+            "id": "bfe66a9cae76e459",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +59,7 @@
             }
           },
           {
-            "id": "773046e2cf73168c",
+            "id": "d2619c8bcc2bc1e3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +74,7 @@
             }
           },
           {
-            "id": "0338f00e7db379d7",
+            "id": "e1c7f69a2b051f10",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +85,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "2de099ced9f8a19c",
+    "id": "f871277f192f1c71",
     "type": "split",
     "children": [
       {
-        "id": "7858aba5b1623fe2",
+        "id": "44f30a7f6440854a",
         "type": "tabs",
         "children": [
           {
-            "id": "900dc23fe3629364",
+            "id": "1200551f686d0223",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "76f2a41a277c2c0a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maum_AI/model training workflow.md",
+                "file": "Personal Study/MLE/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +121,19 @@
             }
           },
           {
-            "id": "a0e9268fda55809d",
+            "id": "8bfd8a62253252c6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maum_AI/model training workflow.md",
+                "file": "Personal Study/MLE/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cd092fb0191a56a0",
+            "id": "9e195bd652dccb98",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,25 +144,25 @@
             }
           },
           {
-            "id": "cf44f59153ee7e56",
+            "id": "49bf083896a5d999",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maum_AI/model training workflow.md"
+                "file": "Personal Study/MLE/note.md"
               }
             }
           },
           {
-            "id": "4461e9f33f65dce5",
+            "id": "86374857df5896da",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -147,63 +171,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "63c1edfd2c7ce3b1",
+  "active": "0d07720f274f309b",
   "lastOpenFiles": [
-    "Personal Study/MLE/paper/Orca A Distributed Serving System for Transformer-based Generative Models.md",
-    "Personal Study/MLE/note.md",
-    "Personal Study/docker/bind mount.md",
-    "Personal Study/Lucene.md",
-    "Personal Study/Inverted file index and product quantization.md",
-    "Personal Study/Hierarchical Navigable Small World(HNSW).md",
-    "Personal Study/Hashing.md",
-    "Personal Study/hash-table.md",
-    "Personal Study/Embedding.md",
-    "Personal Study/elasticsearch.md",
-    "Personal Study/Approximate Nearest Neighbors Oh Yeah(ANNOY).md",
-    "Personal Study/ANN.md",
-    "Personal Study/Skip lists.md",
-    "Personal Study/Six Handshake Rules.md",
-    "Personal Study/Similarity Search.md",
-    "Personal Study/Optimal Transport.md",
-    "Personal Study/NSW.md",
-    "Personal Study/Manifold Hypothesis.md",
-    "Personal Study/MLE/inference.md",
-    "Personal Study/MLE/study index.md",
-    "Personal Study/MLE/paper",
-    "Personal Study/MLE/concept",
-    "Maum_AI/model training workflow.md",
-    "Personal Study/MLE/CUDA/CUDA C++ Programming Guide.md",
-    "Personal Study/MLE",
-    "Untitled.md",
-    "Personal Study/docker/volume.md",
-    "Theory Study/NLP/Paper/Sentence-BERT Sentence Embeddings using Siamese BERT-Networks.md",
-    "Theory Study/NLP/Paper/Attention_is_All_You_Need.md",
-    "Maum_AI",
-    "assets/Pasted image 20231218091900.png",
-    "Personal Study/docker",
-    "Personal Study/MLE/CUDA",
-    "assets/Pasted image 20231128162812.png",
-    "assets/Pasted image 20231129102635.png",
-    "assets/Pasted image 20231128085951.png",
-    "assets/Pasted image 20231128111621.png",
-    "assets/Pasted image 20231128111227.png",
-    "assets/Pasted image 20231124133851.png",
-    "assets/Pasted image 20231124111538.png",
-    "assets/Pasted image 20231123161557.png",
-    "assets/Pasted image 20231020092841.png",
-    "Theory Study/NLP/Paper",
-    "Theory Study/NLP",
+    "Pasted image 20231223122612.png",
+    "Theory Study/IMAGE/Super Resolution.md",
     "Theory Study/IMAGE",
-    "Personal Study/vectorDB"
+    "Personal Study/MLE/paper/Orca A Distributed Serving System for Transformer-based Generative Models.md",
+    "Personal Study/MLE/note.md"
   ]
 }

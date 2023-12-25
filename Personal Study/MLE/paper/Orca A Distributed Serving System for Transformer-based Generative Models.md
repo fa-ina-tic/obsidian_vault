@@ -87,3 +87,19 @@ annotation-target: https://www.usenix.org/system/files/osdi22-yu.pdf
 >%%TAGS%%
 >
 ^4jgsh1vxz4b
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-23T04:18:40.360Z","updated":"2023-12-23T04:18:40.360Z","document":{"title":"","link":[{"href":"urn:x-pdf:710bea5ac55a75906ae52879f934eca6"},{"href":"https://www.usenix.org/system/files/osdi22-yu.pdf"}],"documentFingerprint":"710bea5ac55a75906ae52879f934eca6"},"uri":"https://www.usenix.org/system/files/osdi22-yu.pdf","target":[{"source":"https://www.usenix.org/system/files/osdi22-yu.pdf","selector":[{"type":"TextPositionSelector","start":12459,"end":12688},{"type":"TextQuoteSelector","exact":"while the incrementphase comprises multiple iterations because each iterationis only able to process a single token, the initiation phase istypically implemented as a single iteration by processing allthe input tokens in parallel","prefix":"es output generation. Note that ","suffix":".The original Transformer [60] e"}]}]}
+>```
+>%%
+>*%%PREFIX%%es output generation. Note that%%HIGHLIGHT%% ==while the incrementphase comprises multiple iterations because each iterationis only able to process a single token, the initiation phase istypically implemented as a single iteration by processing allthe input tokens in parallel== %%POSTFIX%%.The original Transformer [60] e*
+>%%LINK%%[[#^webeihfo3va|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^webeihfo3va
+
