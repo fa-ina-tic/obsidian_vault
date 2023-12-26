@@ -103,3 +103,45 @@ annotation-target: https://www.usenix.org/system/files/osdi22-yu.pdf
 >
 ^webeihfo3va
 
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-26T00:01:15.462Z","updated":"2023-12-26T00:01:15.462Z","document":{"title":"","link":[{"href":"urn:x-pdf:710bea5ac55a75906ae52879f934eca6"},{"href":"https://www.usenix.org/system/files/osdi22-yu.pdf"}],"documentFingerprint":"710bea5ac55a75906ae52879f934eca6"},"uri":"https://www.usenix.org/system/files/osdi22-yu.pdf","target":[{"source":"https://www.usenix.org/system/files/osdi22-yu.pdf","selector":[{"type":"TextPositionSelector","start":14767,"end":14898},{"type":"TextQuoteSelector","exact":"the Attention operation should perform computation ontensors of different shapes depending on the number of tokensalready processed","prefix":"t and value vl,t .3 There-fore, ","suffix":".Prior to the Attention operatio"}]}]}
+>```
+>%%
+>*%%PREFIX%%t and value vl,t .3 There-fore,%%HIGHLIGHT%% ==the Attention operation should perform computation ontensors of different shapes depending on the number of tokensalready processed== %%POSTFIX%%.Prior to the Attention operatio*
+>%%LINK%%[[#^zds7fxkaov|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^zds7fxkaov
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-26T00:18:56.321Z","updated":"2023-12-26T00:18:56.321Z","document":{"title":"","link":[{"href":"urn:x-pdf:710bea5ac55a75906ae52879f934eca6"},{"href":"https://www.usenix.org/system/files/osdi22-yu.pdf"}],"documentFingerprint":"710bea5ac55a75906ae52879f934eca6"},"uri":"https://www.usenix.org/system/files/osdi22-yu.pdf","target":[{"source":"https://www.usenix.org/system/files/osdi22-yu.pdf","selector":[{"type":"TextPositionSelector","start":16703,"end":16793},{"type":"TextQuoteSelector","exact":"hese systems can be seen asan abstraction sitting atop underlying model execution en-gines","prefix":"7]and TensorFlow Serving [42]. T","suffix":" such as TensorRT [6], TVM [14],"}]}]}
+>```
+>%%
+>*%%PREFIX%%7]and TensorFlow Serving [42]. T%%HIGHLIGHT%% ==hese systems can be seen asan abstraction sitting atop underlying model execution en-gines== %%POSTFIX%%such as TensorRT [6], TVM [14],*
+>%%LINK%%[[#^7w6huwt918e|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7w6huwt918e
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-26T00:58:33.715Z","updated":"2023-12-26T00:58:33.715Z","document":{"title":"","link":[{"href":"urn:x-pdf:710bea5ac55a75906ae52879f934eca6"},{"href":"https://www.usenix.org/system/files/osdi22-yu.pdf"}],"documentFingerprint":"710bea5ac55a75906ae52879f934eca6"},"uri":"https://www.usenix.org/system/files/osdi22-yu.pdf","target":[{"source":"https://www.usenix.org/system/files/osdi22-yu.pdf","selector":[{"type":"TextPositionSelector","start":19578,"end":19824},{"type":"TextQuoteSelector","exact":"One majorlimitation of existing systems is that the serving system andthe execution engine interact with each other only when (1)the serving system schedules the next batch on an idle engine;or (2) the engine finishes processing the current batch","prefix":"shed and late-joining requests. ","suffix":". Inother words, these systems a"}]}]}
+>```
+>%%
+>*%%PREFIX%%shed and late-joining requests.%%HIGHLIGHT%% ==One majorlimitation of existing systems is that the serving system andthe execution engine interact with each other only when (1)the serving system schedules the next batch on an idle engine;or (2) the engine finishes processing the current batch== %%POSTFIX%%. Inother words, these systems a*
+>%%LINK%%[[#^led0j3zpno|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^led0j3zpno

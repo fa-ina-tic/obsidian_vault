@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b239729d3dadca87",
+    "id": "869d061954931d6c",
     "type": "split",
     "children": [
       {
-        "id": "3ca43d263722cff5",
+        "id": "9f1b6ad35ff4ccc3",
         "type": "tabs",
         "children": [
           {
-            "id": "ce53eef070d5f229",
+            "id": "63c1edfd2c7ce3b1",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
@@ -20,16 +20,16 @@
         ]
       },
       {
-        "id": "899d831b174ac766",
+        "id": "6de9b326c25ba3f9",
         "type": "tabs",
         "children": [
           {
-            "id": "0d07720f274f309b",
+            "id": "7086bb7f9170f8ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Study/MLE/note.md",
+                "file": "Personal Study/MLE/study index.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "28a1ac2d3d81bd6d",
+    "id": "ab00d563a1033b65",
     "type": "split",
     "children": [
       {
-        "id": "d7b915e12d90e5bb",
+        "id": "30229b95192c04e2",
         "type": "tabs",
         "children": [
           {
-            "id": "bfe66a9cae76e459",
+            "id": "e015834afd3a3337",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "d2619c8bcc2bc1e3",
+            "id": "773046e2cf73168c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "e1c7f69a2b051f10",
+            "id": "0338f00e7db379d7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,31 +85,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "f871277f192f1c71",
+    "id": "2de099ced9f8a19c",
     "type": "split",
     "children": [
       {
-        "id": "44f30a7f6440854a",
+        "id": "7858aba5b1623fe2",
         "type": "tabs",
         "children": [
           {
-            "id": "1200551f686d0223",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "76f2a41a277c2c0a",
+            "id": "900dc23fe3629364",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Study/MLE/note.md",
+                "file": "Personal Study/MLE/study index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,19 +113,19 @@
             }
           },
           {
-            "id": "8bfd8a62253252c6",
+            "id": "a0e9268fda55809d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Study/MLE/note.md",
+                "file": "Personal Study/MLE/study index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9e195bd652dccb98",
+            "id": "cd092fb0191a56a0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,25 +136,25 @@
             }
           },
           {
-            "id": "49bf083896a5d999",
+            "id": "cf44f59153ee7e56",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Study/MLE/note.md"
+                "file": "Personal Study/MLE/study index.md"
               }
             }
           },
           {
-            "id": "86374857df5896da",
+            "id": "4461e9f33f65dce5",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "calendar",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,22 +163,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d07720f274f309b",
+  "active": "7086bb7f9170f8ab",
   "lastOpenFiles": [
-    "Pasted image 20231223122612.png",
-    "Theory Study/IMAGE/Super Resolution.md",
-    "Theory Study/IMAGE",
+    "Personal Study/MLE/note.md",
+    "Personal Study/MLE/study index.md",
+    "Pasted image 20231226095234.png",
     "Personal Study/MLE/paper/Orca A Distributed Serving System for Transformer-based Generative Models.md",
-    "Personal Study/MLE/note.md"
+    "Maum_AI/model training workflow.md",
+    "Pasted image 20231223122612.png",
+    "Personal Study/docker/bind mount.md",
+    "Personal Study/Lucene.md",
+    "Personal Study/Inverted file index and product quantization.md",
+    "Personal Study/Hierarchical Navigable Small World(HNSW).md",
+    "Personal Study/Hashing.md",
+    "Personal Study/hash-table.md",
+    "Personal Study/Embedding.md",
+    "Personal Study/elasticsearch.md",
+    "Personal Study/Approximate Nearest Neighbors Oh Yeah(ANNOY).md",
+    "Personal Study/ANN.md",
+    "Personal Study/Skip lists.md",
+    "Personal Study/Six Handshake Rules.md",
+    "Personal Study/Similarity Search.md",
+    "Personal Study/Optimal Transport.md",
+    "Personal Study/NSW.md",
+    "Personal Study/Manifold Hypothesis.md",
+    "Personal Study/MLE/inference.md",
+    "Personal Study/MLE/paper",
+    "Personal Study/MLE/concept",
+    "Personal Study/MLE/CUDA/CUDA C++ Programming Guide.md",
+    "Personal Study/MLE",
+    "Untitled.md",
+    "Personal Study/docker/volume.md",
+    "Theory Study/NLP/Paper/Sentence-BERT Sentence Embeddings using Siamese BERT-Networks.md",
+    "Maum_AI",
+    "assets/Pasted image 20231218091900.png",
+    "Personal Study/docker",
+    "Personal Study/MLE/CUDA",
+    "assets/Pasted image 20231128162812.png",
+    "assets/Pasted image 20231129102635.png",
+    "assets/Pasted image 20231128085951.png",
+    "assets/Pasted image 20231128111621.png",
+    "assets/Pasted image 20231128111227.png",
+    "assets/Pasted image 20231124133851.png",
+    "assets/Pasted image 20231124111538.png",
+    "Theory Study/NLP/Paper",
+    "Theory Study/NLP",
+    "Theory Study/IMAGE",
+    "Personal Study/vectorDB"
   ]
 }

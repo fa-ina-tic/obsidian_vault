@@ -42,7 +42,7 @@ so paper suggests to schedule the execution at the granularity of iteration, not
 
 
 # Background
-*inference procedure of GPT*
+### inference procedure of GPT
 GPT : autoregressive language model based on Transformer
 input : text
 output : new text
@@ -86,4 +86,49 @@ process
 keys and values should conisidered as internal states because attention requires keys and values of all preceding tokens.
 
 naive procedure would be taking all tokens in the sequence and recompute all the keys and values at every iteration.
+methods to avoid this iteration
+1. incremental decoding : saves the keys and values for reuse in successive iterations
+	1. fairseq, FasterTransformer, Megatron-LM use thiis method
+
+main difference between Transformer and LSTM based on figure 1c -> size of the states(k, v) in Transformer increases with iteration but (c, h) in LSTm remains constant. Attention model takes all key($k_{l, 1:t-1}$) and values($v_{l, 1:t-1}$) along with current key($k_{l,k}$) and value($v_{l,k}$ ). it means *Attention operation should perform computation on tensors of different shapes depending on the number of tokens already processed*
+
+Before the Attention operation  
+1. layer normalization operation 
+2. QKV Linear operation
+After the Attention operation (in order)
+1. linear operation(Attn Out Linear)
+2. add operation for residual connection(Add)
+3. multi layer perceptron(MLP)
+4. add operation for residual connection(Add)
+
+### ML inference serving systems
+inference service gives replies on the Users' requests based on a pre-defined ML model using its provisioned resource. 
+common inference service runs a DNN(deep neural network) model with input data to generate output for the request
+inference service should provide low latency and high throughput with a reasonable amount of cost.
+
+what inference engine should do
+1. do main mathmetical operations to the engines
+2. expose endpoints to receive requests
+3. scheduling executions
+4. sending responses to requests
+
+focused on
+1. batching executions
+2. selecting an appropriate model from multiple model variants
+3. deploying multiple models on the same device
+
+batching is a main key to achieve high accelerator utilization when using GPUs.
+it enable the input tensors from multiple requests coalesce into a single, large input tensors before the first operation of the model. 
+engines throughput is highly dependent on the batch size cause accelerators are specialized to do the vast amount of parallel computation units. it prefers large input tensors than small ones.
+
+![[Pasted image 20231226095234.png]]
+
+figure 2 show an overall workflow of serving a generative language model with existing serving systems and execution engines. in this figure, two request are being one batch and goes to execution engine to being processed.
+
+One major limitation of existing systems is that serving system and the execution engine interact each other when t
+
+
+
+
+
 
